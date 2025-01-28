@@ -1,4 +1,4 @@
-<h1>Hi 🧑🏻‍💻, I'm Aung Nanda Oo, studying in Computer Science in United States.</h1>
+<h1>Hi 🧑🏻‍💻, I'm Aung Nanda Oo, studying Computer Science in United States.</h1>
 <p>A passionate full-stack developer, exploring around with AI/ML tools to integrate into website!</p>
 
 - 🌱 I’m currently exploring with AI/ML tools
