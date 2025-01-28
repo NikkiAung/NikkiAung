@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Aung Nanda Oo, currently majoring in Computer Science in United States.</h1>
+<h1>Hi 🧑🏻‍💻, I'm Aung Nanda Oo, studying in Computer Science in United States.</h1>
 <p>A passionate full-stack developer, exploring around with AI/ML tools to integrate into website!</p>
 
 - 🌱 I’m currently exploring with AI/ML tools
@@ -42,8 +42,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkiAung&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NikkiAung&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikkiAung/NikkiAung/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikkiAung/NikkiAung/output/github-snake.svg" />
