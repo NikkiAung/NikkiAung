@@ -1,7 +1,7 @@
 <h1>Hi 🧑🏻‍💻, I'm Aung Nanda Oo, studying Computer Science in United States.</h1>
-<p>An aspiring full-stack developer, exploring around with AI/ML tools to integrate into website!</p>
+<p>An aspiring full-stack developer, exploring around with DevOps tools to make products more reliable and scalable!</p>
 
-- 🌱 I’m currently exploring with AI/ML tools and Databse Management
+- 🌱 I’m currently exploring with DevOps and Databse Management
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Laugh in silence
 
