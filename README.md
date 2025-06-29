@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently exploring with DevOps and Databse Management
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Laugh in silence
+- 🤓 Fun fact: Laugh in silence
 
 <h2>👾 Teck Stacks I Use</h2>
 <h3>👨‍💻 Languages</h3>
